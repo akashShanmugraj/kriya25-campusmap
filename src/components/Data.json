@@ -190,9 +190,15 @@
     "building": "kBlock"
   },
   {
-    "eventName": "KRIYA IDEATHON",
-    "description": "Y202",
+    "eventName": "KRIYA IDEATHON venue 1",
+    "description": "Y401, Y402",
     "building": "yBlock"
+  },
+  
+  {
+    "eventName": "KRIYA IDEATHON venue 2",
+    "description": "Makerspace",
+    "building": "gBlock"
   },
   {
     "eventName": "ADVANCE METHOD OF REFRIGERATION AND AIR CONDITIONING",
